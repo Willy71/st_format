@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: st-format
-Version: 0.1
-Summary: Utility functions for enhancing Streamlit apps
-Home-page: https://github.com/willy71/st_format
-Author: Guillermo Cerato
-Author-email: gcerato@gmail.com
-License-File: LICENSE

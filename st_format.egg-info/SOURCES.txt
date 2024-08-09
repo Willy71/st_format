@@ -1,9 +1,0 @@
-LICENSE
-setup.py
-st_format/__init__.py
-st_format/utils.py
-st_format.egg-info/PKG-INFO
-st_format.egg-info/SOURCES.txt
-st_format.egg-info/dependency_links.txt
-st_format.egg-info/requires.txt
-st_format.egg-info/top_level.txt
