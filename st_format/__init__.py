@@ -4,6 +4,7 @@ from .st_format import line
 from .st_format import center_text
 from .st_format import text_left
 from .st_format import center_text_link
+from .st_format import left_text_link
 from .st_format import photo_link
 
 __all__ = [
