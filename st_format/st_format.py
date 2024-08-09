@@ -149,5 +149,12 @@ def photo_link(alt_text, img_url, link_url, img_width):
     - link_url (str): The URL the image links to.
     - img_width (str): The width of the image in pixels.
     """
-    markdown_code = f'<a href="{link_url}" target="_blank"><img src="{img_url}" alt="{alt_text}" width="{img_width}px"></a>'
+    markdown_code = f'''
+    <div style="text-align: center;">
+        <a href="{link_url}" target="_blank">
+            <img src="{img_url}" alt="{alt_text}" width="{img_width}px">
+        </a>
+        <p style="text-align: center;">{alt_text}</p>
+    </div>
+    '''
     st.markdown(markdown_code, unsafe_allow_html=True)
