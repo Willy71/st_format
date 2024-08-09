@@ -1,10 +1,8 @@
----
-
-# `st_format` - Streamlit Formatting Utilities
+`st_format` - Streamlit Formatting Utilities
 
 `st_format` is a Python library designed to enhance the presentation of Streamlit apps by providing utility functions for formatting and layout customization. This library allows you to easily set backgrounds, center images, create custom text alignments, and more.
 
-## Installation
+Installation
 
 You can install `st_format` directly from PyPI:
 
@@ -12,9 +10,9 @@ You can install `st_format` directly from PyPI:
 pip install st-format
 ```
 
-## Functions
+Functions
 
-### 1. `set_background`
+1. `set_background`
 
 Sets a background image for the Streamlit app.
 
