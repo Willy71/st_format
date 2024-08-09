@@ -188,4 +188,7 @@ photo_link(
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+# Extras
+For code colors consults:
+https://www.colorhexa.com/
 ---
