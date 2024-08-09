@@ -32,7 +32,7 @@ import streamlit as st
 from st_format import set_background
 
 set_background(
-    image_url="https://raw.githubusercontent.com/Willy71/background/main/picture/pxfuel%20(1).jpg"
+    image_url="https://github.com/Willy71/background/blob/main/picture/Confluence%20of%20easter%20Creek%20and%20Killik%20River.png?raw=true"
 )
 ```
 
