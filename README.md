@@ -10,6 +10,7 @@ You can install `st_format` directly from PyPI:
 ```bash
 pip install st-format
 ```
+https://pypi.org/project/st-format/
 
 Functions
 
