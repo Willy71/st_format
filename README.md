@@ -1,4 +1,5 @@
-`st_format` - Streamlit Formatting Utilities
+`st_format` 
+# - Streamlit Formatting Utilities
 
 `st_format` is a Python library designed to enhance the presentation of Streamlit apps by providing utility functions for formatting and layout customization. This library allows you to easily set backgrounds, center images, create custom text alignments, and more.
 
@@ -141,10 +142,10 @@ center_text_link(
 Place a hyperlink on the left
 
 **Parameters:**
-    - link_text (str): The text to display as a hyperlink.
-    - link_url (str): The URL the link points to.
-    - size (str): The size of the text (HTML heading size, e.g., "1" for <h1>).
-    - color (str): The color of the text.
+    - 'link_text' (str): The text to display as a hyperlink.
+    - 'link_url' (str): The URL the link points to.
+    - 'size' (str): The size of the text (HTML heading size, e.g., "1" for <h1>).
+    - 'color' (str): The color of the text.
 
 **Usage:**
 
