@@ -63,6 +63,19 @@ def line(size, color):
         unsafe_allow_html=True
     )
 
+def text(text, align, size, color):
+    """
+    Centers text on the Streamlit page.
+
+    Parameters:
+    - text (str): The text to display.
+    - size (str): The size of the text (HTML heading size, e.g., "1" for <h1>).
+    - color (str): The color of the text.
+    """
+    st.markdown(
+        f"<h{size} style='text-align: {align}; color: {color}'>{text}</h{size}>",
+        unsafe_allow_html=True
+    )
 
 def center_text(text, size, color):
     """
