@@ -63,12 +63,13 @@ def line(size, color):
         unsafe_allow_html=True
     )
 
-def text(text, align, size, color):
+def text(text, align = "center", size, color):
     """
     Centers text on the Streamlit page.
 
     Parameters:
     - text (str): The text to display.
+    - align (str) Indicate the text alignment. center - right - left    
     - size (str): The size of the text (HTML heading size, e.g., "1" for <h1>).
     - color (str): The color of the text.
     """
